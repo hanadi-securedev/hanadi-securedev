@@ -1,8 +1,8 @@
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&duration=3000&pause=800&color=38BDF8&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Hanadi+%F0%9F%91%8B;Cybersecurity+Enthusiast+%F0%9F%94%90;Full+Stack+Web+Developer+%F0%9F%92%BB;Secure+Code+Clean+Architecture" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=2800&pause=900&color=0EA5E9&center=true&vCenter=true&width=800&lines=Hi+there+%F0%9F%91%8B%2C+I'm+Hanadi;aka+hanadi-securedev;Cybersecurity+%26+Full+Stack+Developer;Building+Secure+and+Scalable+Systems;Code+Smart.+Code+Secure." />
 </p>
 
-# Hi there 👋, I'm Hanadi! (aka hanadi-securedev)
+
 
 Welcome to my GitHub profile! 😎  
 I'm passionate about **Cybersecurity** and **Full Stack Development**, always exploring ways to make digital spaces safer and cooler.  
